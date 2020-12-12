@@ -12,10 +12,11 @@ sections:
     title: About
     section_id: about
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Animal Facts was created in 2020 during the 8.3 patch of BFA shudders. We
+      started pugging raiders and were able to complete 6 of 12 in Nyalotha
+      before the Shadowlands pre-patch and 12 0f 12 after. Now with the hype of
+      Shadowlands we have a 25 man raid group that is 6 of 10 in normal Castle
+      Nathria! Raid times are 7-9:30 PM PST
     actions:
       - type: action
         label: Contact Me
