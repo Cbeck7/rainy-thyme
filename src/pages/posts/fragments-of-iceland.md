@@ -2,7 +2,7 @@
 title: Castle Nathria First Raid!
 date: '2020-12-08'
 thumb_img_path: /images/firstraid.jpg
-content_img_path: images/7.jpg
+content_img_path: /images/happy-dolphin.jpg
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
