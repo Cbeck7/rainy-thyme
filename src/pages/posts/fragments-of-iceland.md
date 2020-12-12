@@ -1,6 +1,6 @@
 ---
 title: Fragments of Iceland
-date: '2020-01-05'
+date: '2020-12-02'
 thumb_img_path: images/7.jpg
 content_img_path: images/7.jpg
 excerpt: >-
