@@ -6,8 +6,10 @@ sections:
     title: Welcome to Animal Facts!
     section_id: hero
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Ready for your first animal fact? Most elephants weigh less than the
+      tongue of a blue whale. Isn't that Amazing?! Almost as amazing as our
+      little guild, we are a small group of casual heroic progression raiders
+      who love to have fun.
   - type: section_content
     title: About
     section_id: about
