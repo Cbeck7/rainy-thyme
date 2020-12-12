@@ -1,6 +1,6 @@
 ---
 title: Fragments of Iceland
-date: ''
+date: '0002-12-08'
 thumb_img_path: images/7.jpg
 content_img_path: images/7.jpg
 excerpt: >-
