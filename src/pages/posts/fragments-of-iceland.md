@@ -1,7 +1,7 @@
 ---
 title: Castle Nathria First Raid!
 date: '2020-12-08'
-thumb_img_path: images/7.jpg
+thumb_img_path: /images/firstraid.jpg
 content_img_path: images/7.jpg
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
