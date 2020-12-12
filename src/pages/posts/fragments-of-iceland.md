@@ -1,6 +1,6 @@
 ---
 title: Fragments of Iceland
-date: '1919-01-27'
+date: '1919-12-27'
 thumb_img_path: images/7.jpg
 content_img_path: images/7.jpg
 excerpt: >-
