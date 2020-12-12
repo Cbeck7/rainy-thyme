@@ -5,7 +5,7 @@ thumb_img_path: /images/firstraid.jpg
 content_img_path: /images/happy-dolphin.jpg
 excerpt: >-
   Animal Facts prepares to take on World of Warcrafts newest raid Castle
-  Nathria! How far will these Champions
+  Nathria! How far will these Champions make it?
 template: post
 ---
 
